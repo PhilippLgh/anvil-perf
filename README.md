@@ -1,5 +1,7 @@
 # Anvil Performance Tests
 
+Reproducing issue described here: https://github.com/foundry-rs/foundry/issues/4399
+
 Install dependencies: `yarn`
 
 ## Run on Hardhat Node
